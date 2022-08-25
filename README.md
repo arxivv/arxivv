@@ -18,7 +18,6 @@ class Attributes:
 	    
 	    return discord, gmail
 	
-	
 	def life(self):
 		langs         = ['German', 'English', 'Spanish']
 		age           = 17
