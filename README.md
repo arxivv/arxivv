@@ -4,6 +4,7 @@
 	<a href="https://discord.gg/xcode">.gg/xcode</a></h2>
 
 <p align="center"> <img alt="" src=https://lanyard.cnrad.dev/api/764866288622633020/> </p>
+
 ```python
 import bitches
 
