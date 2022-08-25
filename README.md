@@ -3,7 +3,7 @@
 <h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://discord.gg/xcode">.gg/xcode</a></h2>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api764866288622633020/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/764866288622633020/>
 </p>
 
 <p href="https://discord.gg/onlp" align="center">
