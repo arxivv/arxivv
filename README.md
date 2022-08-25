@@ -4,7 +4,7 @@
 	<a href="https://discord.gg/xcode">.gg/xcode</a></h2>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/764866288622633020/>
 </p>
 
 ```python
