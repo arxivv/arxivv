@@ -17,7 +17,6 @@ class Attributes:
 	    gmail   = "arxiv.basic@gmail.com"
 	    
 	    return discord, gmail
-
 	
 	
 	def life(self):
