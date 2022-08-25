@@ -1,16 +1,42 @@
-### Hi there 👋
+<!-- Hi skid <3 -->
 
-<!--
-**arxivv/arxivv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://discord.gg/xcode">.gg/xcode</a></h2>
 
-Here are some ideas to get you started:
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api764866288622633020/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src=https://github-readme-stats.vercel.app/api?username=userXdiscord&show_icons=true&theme=tokyonight>
+</p>
+
+```python
+import bitches
+
+class Attributes:
+	def __init__(self) -> None:
+		bitches.get('bitches')
+		
+	def contact(self):
+	    discord  = ""
+	    gmail   = "contact.moondark@gmail.com"
+	    
+	    return discord, gmail
+
+	
+	
+	def life(self):
+		langs         = ['German', 'Spanish', 'English']
+		age           = 17
+		return langs, age
+		
+	def coding(self):
+		langs = {
+			'genious':   ['python'],
+			'learning': ['js', 'c#']
+		}
+		specialities  = ['discord bots', 'botting scripts']
+		environnement = ['vscode']
+		
+		return langs, specialities, environnement
+```
