@@ -1,6 +1,6 @@
 <!-- Hi skid <3 -->
 
-<h2 align="center">Discord Server<img src="https://cdn3.emoji.gg/emojis/4890-cathearteyes.gif" height="25px">
+<h2 align="center">Discord Server <img src="https://cdn3.emoji.gg/emojis/4890-cathearteyes.gif" height="25px">
 	<a href="https://discord.gg/xcode">.gg/xcode</a></h2>
 
 <p href="https://discord.gg/xcode" align="center">
